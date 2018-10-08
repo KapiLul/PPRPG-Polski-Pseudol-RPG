@@ -1,0 +1,4 @@
+<meta>
+     <info author="KapiLul" version="0.1" type="RPG" name="PPRPG Polski Pseudol RPG" description="To jest po prostu pseudol" />
+     <script src="script.lua" type="server" />
+</meta>
